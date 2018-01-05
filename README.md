@@ -1,1 +1,3 @@
 Just some random AI experiments with AI-related algorithms...
+
+Thanks to http://www.ai-junkie.com/
