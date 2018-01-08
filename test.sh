@@ -1,2 +1,2 @@
-go install Seb-C/ai-experiments/main && ~/go/bin/main
+go install Seb-C/genetic-algorithm-experiment/main && ~/go/bin/main
 

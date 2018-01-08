@@ -1,6 +1,6 @@
 package main
 
-import "Seb-C/ai-experiments/genetic"
+import "Seb-C/genetic-algorithm-experiment/genetic"
 
 func main() {
 	genetic.
